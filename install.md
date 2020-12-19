@@ -1,4 +1,4 @@
-# OPS sysmon
+# OPSEC sysmon
 
 - - - Install Sysmon + mimikatz.exe:
 
